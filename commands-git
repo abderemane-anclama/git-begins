@@ -5,3 +5,4 @@ Les 3 commandes de push (dans l’odre) :
 git add commands-git
 git commit -m "mon deuxième commit"
 git push -u origin main
+git pull
