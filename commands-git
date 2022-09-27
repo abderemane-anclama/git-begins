@@ -1,0 +1,7 @@
+git clone https://github.com/abderemane-anclama/git-begins.git
+
+Les 3 commandes de push (dans l’odre) :
+
+git add commands-git
+git commit -m "mon deuxième commit"
+git push -u origin main
